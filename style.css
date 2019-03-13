@@ -1,0 +1,31 @@
+#main{
+    background-color:gainsboro;
+    width: 60%;
+    padding: 10px;
+}
+img {
+  max-width:100%;
+}
+
+#title{
+    font-family: 'Srisakdi', cursive;
+    text-align: center;
+}
+
+#image{
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+    border-color: bisque;
+}
+
+#img-div{
+    margin:auto;
+}
+
+#img-caption{
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
+    font-weight:bolder;
+    font-size: 3em;
+}
